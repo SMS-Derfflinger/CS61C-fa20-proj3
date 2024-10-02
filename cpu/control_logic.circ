@@ -659,8 +659,8 @@ end TCL_Generic;
     </comp>
     <comp lib="0" loc="(210,2080)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="op"/>
-      <a name="width" val="7"/>
+      <a name="label" val="funct3"/>
+      <a name="width" val="3"/>
     </comp>
     <comp lib="0" loc="(210,2140)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -754,11 +754,11 @@ end TCL_Generic;
       <a name="width" val="7"/>
     </comp>
     <comp lib="0" loc="(240,2100)" name="Constant">
-      <a name="value" val="0x73"/>
-      <a name="width" val="7"/>
+      <a name="value" val="0x6"/>
+      <a name="width" val="3"/>
     </comp>
     <comp lib="0" loc="(240,2160)" name="Constant">
-      <a name="value" val="0x5"/>
+      <a name="value" val="0x7"/>
       <a name="width" val="3"/>
     </comp>
     <comp lib="0" loc="(2450,1770)" name="Tunnel">
@@ -1476,7 +1476,7 @@ end TCL_Generic;
       <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(350,2090)" name="Comparator">
-      <a name="width" val="7"/>
+      <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(350,2150)" name="Comparator">
       <a name="width" val="3"/>
