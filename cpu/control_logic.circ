@@ -855,7 +855,7 @@ end TCL_Generic;
       <a name="label" val="InstU"/>
     </comp>
     <comp lib="0" loc="(380,800)" name="Constant">
-      <a name="value" val="0xb"/>
+      <a name="value" val="0xe"/>
       <a name="width" val="4"/>
     </comp>
     <comp lib="0" loc="(400,2270)" name="Tunnel">
@@ -968,7 +968,7 @@ end TCL_Generic;
       <a name="label" val="BrUn"/>
     </comp>
     <comp lib="0" loc="(580,820)" name="Constant">
-      <a name="value" val="0xc"/>
+      <a name="value" val="0x5"/>
       <a name="width" val="4"/>
     </comp>
     <comp lib="0" loc="(600,1020)" name="Tunnel">
