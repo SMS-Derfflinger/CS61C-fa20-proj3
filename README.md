@@ -1,6 +1,6 @@
 # CS61CPU
 
-This repository contains my solutions to the CS61C-fa20-proj3: A two-stage pipeline Risc-v CPU.
+This repository contains my solutions to the CS61C-fa20-proj3: A two-stage pipeline Risc-V CPU.
 
 ## Introduction
 
@@ -34,6 +34,6 @@ This repository contains my solutions to the CS61C-fa20-proj3: A two-stage pipel
 ### Part B
 
 - [x] Task 4: More Instructions
-    * Let the secondary pipeline CPU support most RISC-V instructions.
+    * Let the two-stage pipeline CPU support most RISC-V instructions.
 
 
