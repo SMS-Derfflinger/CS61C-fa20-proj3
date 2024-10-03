@@ -36,4 +36,4 @@ This repository contains my solutions to the CS61C-fa20-proj3: A two-stage pipel
 - [x] Task 4: More Instructions
     * Let the two-stage pipeline CPU support most RISC-V instructions.
 
-
+You can see the introduction of this project on the course's home page: [course website](https://cs61c.org/fa20/), or in this website: [cs61c/projects/proj3](https://www.learncs.site/docs/curriculum-resource/cs61c/projects/proj3).
